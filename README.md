@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 Hi👋
 
 👩‍🎓 I’m currently a Second-Year Computer Engineering Student at UBC 
+
 😄 Pronouns: She/Her
+
 🔭 I’m currently working on browser and social media automation tools with Python 
+
 💌 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/phoenixanaisliu/
 - Email: phoenixanaisliu on gmail
 
-⚡ Fun fact:
+⚡ Fun facts:
 - I started going to the gym three years ago and have been going consistently ever since, never regret stopping running for the gains #StrongWomen
 - I am obsessed with birds, by that I mean OBSSESSED. Seeing cute bird (or pictures of them) is probably the only thing that can cheer me up in the case of a failed exam (not that I had one yet) :dove_of_peace::bird:
 - I have a hummingbird feeder and enjoy looking at those nimble little buggers
