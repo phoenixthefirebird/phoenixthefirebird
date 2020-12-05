@@ -25,7 +25,7 @@ Hi👋
 - Email: phoenixanaisliu on gmail
 
 ⚡ Fun fact:
-- I started going to the gym three years ago and have been going consistently ever since, never regret stopping running for the gains :woman-lifting-weights:
+- I started going to the gym three years ago and have been going consistently ever since, never regret stopping running for the gains #StrongWomen
 - I am obsessed with birds, by that I mean OBSSESSED. Seeing cute bird (or pictures of them) is probably the only thing that can cheer me up in the case of a failed exam (not that I had one yet) :dove_of_peace::bird:
 - I have a hummingbird feeder and enjoy looking at those nimble little buggers
 - I subscribe to technology breakthrough newsletters and so far they have inspired potential research topics :nerd_face:
