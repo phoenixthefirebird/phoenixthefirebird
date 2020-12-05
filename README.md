@@ -23,6 +23,7 @@ Hi👋
 💌 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/phoenixanaisliu/
 - Email: phoenixanaisliu on gmail
+
 ⚡ Fun fact:
 - I started going to the gym three years ago and have been going consistently ever since, never regret stopping running for the gains :woman-lifting-weights:
 - I am obsessed with birds, by that I mean OBSSESSED. Seeing cute bird (or pictures of them) is probably the only thing that can cheer me up in the case of a failed exam (not that I had one yet) :dove_of_peace::bird:
