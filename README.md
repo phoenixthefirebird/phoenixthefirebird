@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun facts:
 - I started going to the gym three years ago and have been going consistently ever since, never regret stopping running for the gains #StrongWomen
-- I am obsessed with birds, by that I mean OBSSESSED. Seeing cute bird (or pictures of them) is probably the only thing that can cheer me up in the case of a failed exam (not that I had one yet) :dove_of_peace::bird:
+- I am obsessed with birds, by that I mean OBSSESSED. Seeing cute bird (or pictures of them) is probably the only thing that can cheer me up in the case of a failed exam (not that I had one yet) :bird:
 - I have a hummingbird feeder and enjoy looking at those nimble little buggers
 - I subscribe to technology breakthrough newsletters and so far they have inspired potential research topics :nerd_face:
 - I make sure to get at least 8 hours of sleep everyday and never pull all nighters :sleeping:(efficiency intensifies)
