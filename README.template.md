@@ -96,12 +96,10 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 ![](https://img.shields.io/badge/Tools-Google_Collab-informational?style=flat&logo=Google-Colab&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Google_Cloud-informational?style=flat&logo=Google-Cloud&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=blue)
-
-![](https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-ANTLR-informational?style=flat&logo=antlr&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Visual_Studio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-MATLAB-informational?style=flat&logo=matlab&logoColor=white&color=blue)
-
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=blue)
