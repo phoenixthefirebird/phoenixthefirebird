@@ -117,6 +117,8 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 >
 > <p>{office_character}</p>
 
-_Quote requested from [The Office API](https://www.officeapi.dev/)_
+<script type="text/javascript" src="https://www.brainyquote.com/link/quotefu.js"></script>
+
+<small><i><a href="/feeds/funny" target="_blank" rel="nofollow">more Funny Quotes</a></i></small>
 
 Check back at the top of the hour for a new quote!
