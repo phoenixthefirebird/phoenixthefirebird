@@ -52,7 +52,7 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 </a>
 
 <a href="https://github.com/phoenixthefirebird">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=phoenixthefirebird&show_icons=true&line_height=27&count_private=true&title_color=FFE166&text_color=FFE166&icon_color=4AB097&bg_color=123590" alt="Phoenix's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=phoenixthefirebird&show_icons=true&line_height=27&count_private=true&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" alt="Phoenix's GitHub Stats" />
 </a>
 
 <br>
