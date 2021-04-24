@@ -27,17 +27,17 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 <br>
 
 <a href="https://github.com/phoenixthefirebird/slack-clone">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=slack-clone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=123590" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=slack-clone&title_color=ffffff&text_color=FFE166&icon_color=4AB197&bg_color=123590" />
 </a>
 
 <br>
 
 <a href="https://github.com/phoenixthefirebird/phoenixthefirebird.github.io">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=phoenixthefirebird.github.io&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=123590" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=phoenixthefirebird.github.io&title_color=ffffff&text_color=FFE166&icon_color=4AB197&bg_color=123590" />
 </a>
 
 <a href="https://github.com/phoenixthefirebird/scheduler">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=scheduler&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=123590" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=scheduler&title_color=ffffff&text_color=FFE166&icon_color=4AB197&bg_color=123590" />
 </a>
 
 <br>
@@ -48,11 +48,11 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 <br>
 
 <a href="https://github.com/phoenixthefirebird">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixthefirebird&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=123590" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixthefirebird&hide=html,css&title_color=ffffff&text_color=FFE166&icon_color=4AB197&bg_color=123590" />
 </a>
 
 <a href="https://github.com/phoenixthefirebird">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=phoenixthefirebird&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=123590" alt="Phoenix's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=phoenixthefirebird&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=FFE166&icon_color=4AB097&bg_color=123590" alt="Phoenix's GitHub Stats" />
 </a>
 
 <br>
