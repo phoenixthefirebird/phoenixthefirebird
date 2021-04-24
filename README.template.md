@@ -74,14 +74,21 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 <summary>More Skills</summary>
 <br>
 
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=red)
+![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=red)
+
+<br>
+
+![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Sass-informational?style=flat&logo=Sass&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-CSS-informational?style=flat&logo=css3&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Sass-informational?style=flat&logo=Sass&logoColor=white&color=red)
 
 <br>
 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-GIT-informational?style=flat&logo=git&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
