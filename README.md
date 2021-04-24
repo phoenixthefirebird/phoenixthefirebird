@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩‍🎓 I’m currently a Second-Year Computer Engineering Student at UBC 
+👩‍🎓 I’m currently a Second-Year Computer Engineering Student at UBC
 
 😄 Pronouns: She/Her
 
-🔭 I’m currently working on browser and social media automation tools with Python 
+💌 How to reach me:
 
-💌 How to reach me: 
 - LinkedIn: https://www.linkedin.com/in/phoenixanaisliu/
 - Email: phoenixanaisliu on gmail
