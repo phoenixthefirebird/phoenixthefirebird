@@ -79,9 +79,9 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 
 <br>
 
-![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=red)
-![](https://img.shields.io/badge/Framework-Sass-informational?style=flat&logo=Sass&logoColor=white&color=red)
-![](https://img.shields.io/badge/Framework-CSS-informational?style=flat&logo=css3&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-Sass-informational?style=flat&logo=Sass&logoColor=white&color=red)
 
 <br>
