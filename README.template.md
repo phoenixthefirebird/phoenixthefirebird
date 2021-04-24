@@ -63,8 +63,6 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
@@ -79,10 +77,12 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 
 <br>
 
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Framework-Redux-informational?style=flat&logo=Redux&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Framework-Sass-informational?style=flat&logo=Sass&logoColor=white&color=red)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=blueviolet)
 
 <br>
 
