@@ -68,8 +68,6 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=4AB197)
 
-<details>
-<summary>More Skills</summary>
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=red)
@@ -103,8 +101,6 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-
-</details>
 
 <br>
 
