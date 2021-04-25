@@ -14,50 +14,6 @@ I'm Phoenix, a third-year computer engineering student at UBC. I love full stack
 
 Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 
-## 📝 Latest Blog Posts
-
-<br>
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="https://github.com/phoenixthefirebird/slack-clone">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=slack-clone&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" />
-</a>
-
-<br>
-
-<a href="https://github.com/phoenixthefirebird/phoenixthefirebird.github.io">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=phoenixthefirebird.github.io&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" />
-</a>
-
-<a href="https://github.com/phoenixthefirebird/scheduler">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=scheduler&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" />
-</a>
-
-<br>
-<br>
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/phoenixthefirebird">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixthefirebird&hide=html,css&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" />
-</a>
-
-<a href="https://github.com/phoenixthefirebird">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=phoenixthefirebird&show_icons=true&line_height=27&count_private=true&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" alt="Phoenix's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
@@ -108,3 +64,49 @@ Want to know more about me? [Check out my portfolio.](https://phoenixliu.tech)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=blue)
+
+## 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/phoenixthefirebird/slack-clone">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=slack-clone&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" />
+</a>
+
+<br>
+
+<a href="https://github.com/phoenixthefirebird/phoenixthefirebird.github.io">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=phoenixthefirebird.github.io&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" />
+</a>
+
+<a href="https://github.com/phoenixthefirebird/scheduler">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenixthefirebird&repo=scheduler&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" />
+</a>
+
+<br>
+<br>
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/phoenixthefirebird">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenixthefirebird&hide=html,css&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" />
+</a>
+
+<a href="https://github.com/phoenixthefirebird">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=phoenixthefirebird&show_icons=true&line_height=27&count_private=true&title_color=FFE166&text_color=FFE166&icon_color=ffffff&bg_color=123590" alt="Phoenix's GitHub Stats" />
+</a>
+
+<br>
+<br>
+
+
